@@ -14,6 +14,8 @@ JetBrains Mono’s typeface forms are simple and free from unnecessary details. 
 
 ## Keybindings for IAST transliteration
 
+The International Alphabet of Sanskrit Transliteration (IAST) is a transliteration scheme that allows the lossless romanisation of Indic scripts as employed by Sanskrit and related Indic languages.
+
 | key                   | text  |  key                          | text  |
 | ---                   | ---   |  ---                          | ---   |
 | `alt + a`             | ā     | `alt + shift + a`             | Ā     |  
