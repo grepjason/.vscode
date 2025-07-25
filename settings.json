@@ -33,19 +33,24 @@
         "*.webc": "html",
         "*.opf": "xml"
     },
+    "files.autoGuessEncoding": false,
     "files.autoSave": "onFocusChange",
+    "files.encoding": "utf8",
     "files.eol": "\n",
     "files.exclude": {
+        "**/.DS_Store": true,
+        "**/.git": true,
+        "**/.history": true,
         "**/node_modules": true
     },
     "files.insertFinalNewline": true,
+    "files.trimFinalNewlines": true,
     "files.trimTrailingWhitespace": true,
     "git.autofetch": true,
     "git.confirmSync": false,
     "git.enableCommitSigning": true,
     "git.enableSmartCommit": true,
     "git.requireGitUserConfig": true,
-    "html.format.wrapAttributes": "force-aligned",
     "html.format.wrapLineLength": 0,
     "javascript.updateImportsOnFileMove.enabled": "always",
     "latex-workshop.bibtex-fields.sort.enabled": true,
@@ -102,8 +107,17 @@
         "editor.wordWrap": "bounded"
     },
     "[markdown]": {
+        "editor.detectIndentation": false,
         "editor.formatOnPaste": true,
         "editor.formatOnSave": true,
+        "editor.insertSpaces": true,
+        "editor.tabSize": 2,
         "files.trimTrailingWhitespace": false
+    },
+    "[restructuredtext]": {
+        "editor.insertSpaces": true,
+        "editor.tabSize": 4,
+        "editor.wordWrap": "on",
+        "editor.renderWhitespace": "all"
     }
 }
