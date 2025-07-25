@@ -39,3 +39,8 @@ The International Alphabet of Sanskrit Transliteration (IAST) is a transliterati
 | `alt + x`             | ṣ     | `alt + shift + x`             | Ṣ     |
 | `alt + v`             | ḻ     | `alt + shift + v`             | Ḻ     |
 | `alt + c`             | ̐      | `alt + shift + c`             | ̐      |  
+| `alt + 1`             | ḫ     | `alt + 2`                     | ẖ     |
+
+ḻ = ळ   
+ḫ = upadhmanīya   
+ẖ = jihvamūlīya
