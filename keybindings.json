@@ -131,7 +131,7 @@
     "key": "alt+c",
     "command": "type",
     "args": {
-      "text": "m̐"
+      "text": "̐"
     },
     "when": "editorTextFocus"
   },
@@ -139,7 +139,7 @@
     "key": "shift+alt+c",
     "command": "type",
     "args": {
-      "text": "M̐"
+      "text": "̐"
     },
     "when": "editorTextFocus"
   },
@@ -364,6 +364,22 @@
     "command": "type",
     "args": {
       "text": "Ḻ"
+    },
+    "when": "editorTextFocus"
+  },
+  {
+    "key": "alt+1",
+    "command": "type",
+    "args": {
+      "text": "ḫ"
+    },
+    "when": "editorTextFocus"
+  },
+  {
+    "key": "alt+2",
+    "command": "type",
+    "args": {
+      "text": "ẖ"
     },
     "when": "editorTextFocus"
   }
