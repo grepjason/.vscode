@@ -9,6 +9,7 @@
     "ronnidc.nunjucks",
     "sissel.shopify-liquid",
     "subframe7536.theme-maple",
-    "tamasfe.even-better-toml"
+    "tamasfe.even-better-toml",
+    "tecosaur.latex-utilities"
   ]
 }
